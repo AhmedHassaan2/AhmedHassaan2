@@ -1,151 +1,129 @@
 <div align="center">
 
-# AHMED HASSAAN
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Building+Scalable+Digital+Products;Next.js+%7C+TypeScript+%7C+PostgreSQL;Performance+%7C+Architecture+%7C+UX" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00E5FF,100:0d1117&height=130&section=header" width="100%"/>
 
 <br/>
 
-<a href="mailto:a.hassaan.emam@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+# Ahmed Hassaan
 
-<a href="https://linkedin.com/in/ahmeedhassaan0">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+### Full-Stack Developer
 
-<a href="https://github.com/AhmedHassaan2">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p>Building scalable, production-grade web applications  from architecture to deployment.</p>
 
-<a href="https://wa.me/201022677775">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+<br/>
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.hassaan.emam@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmeedhassaan0)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201022677775)
+[![Portfolio](https://img.shields.io/badge/Live%20Project-00E5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://fat7t-5er.vercel.app)
+
+<br/>
 
 </div>
 
 ---
 
-##  About Me
+## About Me
+
+I'm a Full-Stack Developer based in Egypt, focused on building production-grade web applications â€” not prototypes. My work spans the full stack: from database schema and server-side logic to responsive, performant UIs.
+
+I care about **system design**, **clean architecture**, and shipping things that actually work at scale. My current focus is the Egyptian e-commerce space, where I'm building [Fat7t 5er](https://fat7t-5er.vercel.app)  a bilingual, full-featured platform engineered from the ground up.
 
 ```typescript
-class AhmedHassaan {
-  role = "Full-Stack Developer";
-
-  expertise = [
-    "Modern Web Applications",
-    "Scalable E-Commerce Platforms",
-    "System Design",
-    "Performance Optimization"
-  ];
-
-  stack = {
-    frontend: ["Next.js", "React", "TypeScript"],
-    backend: ["Node.js", "Server Actions"],
-    database: ["PostgreSQL", "Prisma"],
-    styling: ["Tailwind CSS"]
-  };
-
-  currentProject = "Fat7t 5er";
-
-  mission() {
-    return "Building scalable products with exceptional user experience.";
-  }
-}
+const ahmed = {
+  role     : "Full-Stack Developer",
+  location : "Egypt",
+  stack: {
+    frontend : ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+    backend  : ["Node.js", "Server Actions", "REST APIs"],
+    database : ["PostgreSQL", "Prisma ORM"],
+    tooling  : ["Git", "GitHub", "Vercel", "VS Code"],
+  },
+  building : "Fat7t 5er â€” Modern Egyptian E-Commerce Platform",
+  principle: "Build products, not pages.",
+};
 ```
-
-### Professional Summary
-
-Full-Stack Developer focused on building production-grade web applications with modern technologies, scalable architecture, and performance-first engineering.
-
-Passionate about transforming ideas into reliable digital products and creating seamless user experiences from frontend to backend.
-
-### Core Strengths
-
-* 🚀 Scalable Web Applications
-* ⚡ Performance Optimization
-* 🏗 Clean Architecture
-* 🛒 E-Commerce Systems
-* 🎯 Product-Focused Engineering
-* 📈 Continuous Learning
 
 ---
 
-
-</div>
-
-
-## 🚀 Featured Project
+## Featured Project
 
 <div align="center">
+
+### Fat7t 5er
+
+<p>A bilingual (Arabic/English) e-commerce platform built for the Egyptian market,<br/>with a production-grade tech stack and real business logic.</p>
+
+**[fat7t-5er.vercel.app](https://fat7t-5er.vercel.app)**
+
+<br/>
 
 <a href="https://fat7t-5er.vercel.app">
 
-<img
-src="https://raw.githubusercontent.com/AhmedHassaan2/fat7t-5er/main/portfolio/screenshots/preview.gif"
-width="90%" />
-
-</a>
-
-</div>
-
-### FAT7T 5ER
-
-<div align="center">
+<p align="center">
 
 <img
 src="https://raw.githubusercontent.com/AhmedHassaan2/fat7t-5er/main/portfolio/screenshots/preview.gif"
-width="85%" />
+width="100%"/>
+
+</p>
+
 
 </div>
-
-
-Modern bilingual e-commerce platform built for the Egyptian market.
-
-#### Highlights
-
-* WhatsApp Checkout
-* Product Comparison
-* Variant Matrix
-* Dynamic Section Builder
-* Role-Based Access Control
-* Advanced Search
-* SEO Optimization
-* Arabic & English Support
-
-#### Tech Stack
-
-`Next.js` • `TypeScript` • `PostgreSQL` • `Prisma` • `Tailwind CSS`
-
-#### Live Demo
-
-https://fat7t-5er.vercel.app
-
----
-
-## ⚒️ Technology Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,express,postgres,prisma,tailwind,html,css,git,github,vercel,vscode&perline=5" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmedHassaan2&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHassaan2&layout=compact&theme=tokyonight&hide_border=true" />
-
 </div>
 
 <br/>
 
+| Feature | Description |
+|---|---|
+| Bilingual Support | Full Arabic and English with RTL layout switching |
+| WhatsApp Checkout | Direct order flow via WhatsApp â€” no payment friction |
+| Product Variants | Size and color matrix with real-time stock management |
+| Product Comparison | Side-by-side comparison engine across multiple items |
+| Role-Based Access | Admin, editor, and customer permission layers |
+| Advanced Search | Fast, filtered search across the full product catalog |
+| Section Builder | Dynamic storefront layout builder for store admins |
+| SEO Optimized | Server-rendered pages with structured metadata |
+
+<br/>
+
 <div align="center">
+
+`Next.js` &nbsp;آ·&nbsp; `TypeScript` &nbsp;آ·&nbsp; `PostgreSQL` &nbsp;آ·&nbsp; `Prisma` &nbsp;آ·&nbsp; `Tailwind CSS` &nbsp;آ·&nbsp; `Vercel`
+
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+| Layer | Technologies |
+|---|---|
+| Frontend | Next.js, React, TypeScript, JavaScript |
+| Styling | Tailwind CSS |
+| Backend | Node.js, Server Actions, Express |
+| Database | PostgreSQL, Prisma ORM |
+| DevOps | Git, GitHub, Vercel |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,postgres,prisma,tailwind,git,github,vercel&perline=5" />
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AhmedHassaan2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHassaan2&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedHassaan2&theme=tokyonight&hide_border=true" />
 
@@ -153,35 +131,27 @@ https://fat7t-5er.vercel.app
 
 ---
 
-## 📈 Activity Graph
+## Engineering Philosophy
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedHassaan2&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
-
-</div>
-
----
-
-## 🏆 Achievement Wall
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AhmedHassaan2&theme=tokyonight&row=1&column=7&no-frame=true" />
-
-</div>
+```
+Build products,    not pages.
+Solve problems,    not tickets.
+Design systems,    not components.
+Ship outcomes,     not features.
+```
 
 ---
 
-## 🎯 Development Philosophy
+## Work With Me
 
-> Build Products, Not Pages.
+<div align="center">
 
-> Solve Problems, Not Tickets.
+I am available for freelance work, long-term collaborations, and full-time positions.
+<br/>
+If you have a project worth building â€” let's talk.
 
-> Design Systems, Not Components.
+<br/>
 
-> Optimize Outcomes, Not Features.
 
 ---
 
@@ -209,10 +179,15 @@ https://fat7t-5er.vercel.app
 
 ---
 
-<div align="center">
 
-### Code is not just what I write
+<br/>
 
-# It's how I solve problems.
+---
+
+*Code is not just what I write  it is how I solve problems.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00E5FF,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
